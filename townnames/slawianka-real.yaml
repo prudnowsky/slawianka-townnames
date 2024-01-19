@@ -1,0 +1,69 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Slavia
+    probability: 1
+  - name: Olgha
+    probability: 1
+  - name: Olghatziu
+    probability: 1
+  - name: Aklaguruntscha
+    probability: 1
+  - name: Lyutchovuylla
+    probability: 1
+  - name: Malyjak
+    probability: 1
+  - name: Horchovuyla
+    probability: 1
+  - name: Vila Portugal
+    probability: 1
+  - name: Metropolitana
+    probability: 1
+  - name: Potyrutza-i-Ployut
+    probability: 1
+  - name: Port Matluv
+    probability: 1
+  - name: Anastasianka
+    probability: 1
+  - name: Sveta Anastasia
+    probability: 1
+  - name: Novotka
+    probability: 1
+  - name: Sivuchka
+    probability: 1
+  - name: Orbuti Lovom
+    probability: 1
+  - name: Tonhati-Uklymets
+    probability: 1
+  - name: Uklymets
+    probability: 1
+  - name: Oblyza
+    probability: 1
+  - name: Anov-Helsha
+    probability: 1
+  - name: Porto Novo
+    probability: 1
+  - name: Santa Clara
+    probability: 1
+  - name: Nova Lisboa
+    probability: 1
+  - name: Yanovska
+    probability: 1
+  - name: Helshovnaya Gordsenkaya
+    probability: 1
+  - name: Aklansha
+    probability: 1
+  - name: Zvednovsky
+    probability: 1
+  - name: Potyrutza
+    probability: 1
+  - name: Yoro-Kolintsi
+    probability: 1
+  - name: Tuchka
+    probability: 1
+  - name: Zavutchka
+    probability: 1
+name: Slawianka (real)
+source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
+subsets: []
